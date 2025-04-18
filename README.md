@@ -33,16 +33,8 @@ This project applies hyperparameter optimization on the [Sensorless Drive Diagno
 - Best kernel: `rbf`
 - Convergence stabilizes within 3–5 parameter trials
 
-![Convergence](superfast_convergence_graph.png)
+![Uploading image.png…]()
+
 
 ---
 
-## 💻 How to Run
-
-1. Clone the repo
-2. Open `svm_fast_tuning.ipynb` in Google Colab
-3. Upload `Sensorless_drive_diagnosis.txt` if needed
-4. Run all cells to see results and graph
-
-```bash
-git clone https://github.com/yourusername/Sensorless-SVM-Optimization.git
