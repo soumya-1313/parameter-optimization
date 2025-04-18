@@ -1,5 +1,5 @@
 # parameter-optimization
-# 🚀 SVM Hyperparameter Tuning on Sensorless Drive Diagnosis Dataset
+# SVM Hyperparameter Tuning on Sensorless Drive Diagnosis Dataset
 
 This project applies hyperparameter optimization on the [Sensorless Drive Diagnosis dataset](https://archive.ics.uci.edu/ml/datasets/dataset+name) using Support Vector Machines (`NuSVC` from `sklearn`). It explores different strategies to balance model accuracy and training time.
 
@@ -17,7 +17,7 @@ This project applies hyperparameter optimization on the [Sensorless Drive Diagno
 
 ---
 
-## 🧪 Optimization Approach
+##  Optimization Approach
 
 - Model: `NuSVC` (non-linear SVM with parameter `nu`)
 - Methods Tested:
@@ -33,7 +33,8 @@ This project applies hyperparameter optimization on the [Sensorless Drive Diagno
 - Best kernel: `rbf`
 - Convergence stabilizes within 3–5 parameter trials
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1c5f6d78-7332-4486-8c75-a17999959d28)
+
 
 
 ---
